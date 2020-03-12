@@ -9,3 +9,4 @@
 ## Links
 * GeoPandas - https://geopandas.org/
 * Kaggle Airbnb Seattle dataset - https://www.kaggle.com/airbnb/seattle
+* Post on Medium - https://medium.com/@almas_aisin/airbnb-seattle-data-exploratory-data-analysis-adbe79207205
