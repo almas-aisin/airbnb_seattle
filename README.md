@@ -1,6 +1,7 @@
 # Airbnb Seattle Data - Exploratory Data Analysis
 ## Files:
 * Airbnb Seattle - EDA.ipynb
+  - Extract .zip files before running the notebook
 * Community_Reporting_Areas.zip
   - To use .shp files you have to install geopandas library
 * seattle.zip
